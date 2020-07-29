@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Guest1",
+    "email": "guest1@gmail.com",
+    "invitationStatus": false
+  },
+  {
+    "id": 2,
+    "name": "Guest2",
+    "email": "guest2@gmail.com",
+    "invitationStatus": false
+  },
+  {
+    "id": 3,
+    "name": "Guest3",
+    "email": "guest3@gmail.com",
+    "invitationStatus": false
+  },
+  {
+    "id": 4,
+    "name": "Guest4",
+    "email": "guest4@gmail.com",
+    "invitationStatus": false
+  },
+  {
+    "id": 5,
+    "name": "Guest5",
+    "email": "guest5@gmail.com",
+    "invitationStatus": false
+  },
+  {
+    "id": 6,
+    "name": "Guest6",
+    "email": "guest6@gmail.com",
+    "invitationStatus": false
+  },
+  {
+    "id": 7,
+    "name": "Guest7",
+    "email": "guest7@gmail.com",
+    "invitationStatus": false
+  },
+  {
+    "id": 8,
+    "name": "Guest8",
+    "email": "guest8@gmail.com",
+    "invitationStatus": false
+  },
+  {
+    "id": 9,
+    "name": "Guest9",
+    "email": "guest9@gmail.com",
+    "invitationStatus": false
+  },
+  {
+    "id": 10,
+    "name": "Guest10",
+    "email": "guest10@gmail.com",
+    "invitationStatus": false
+  }
+]
